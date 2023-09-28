@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fn0gxm5chrfv7funknxixcxawtf26uug11eksmrp&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
-- 👨‍💻 Some of my projects are available at [https://bashir-omer-porfolio.netlify.app/](https://bashir-omer-porfolio.netlify.app/)
+- 👨‍💻 Some of my projects are available in my portfolio [[https://bashir-omer-porfolio.netlify.app/](https://bashir-omer-porfolio.netlify.app/](https://bashir-omer-portfolio.netlify.app/))
 
 - 📫 How to reach me **bashiromer12@gmail.com**
 
